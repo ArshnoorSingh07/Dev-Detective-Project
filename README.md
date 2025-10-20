@@ -67,7 +67,7 @@ Dev-Detective-Project/
 - **HTML5** – Semantic markup structure  
 - **CSS3** – Styling, layout, and responsive design using media queries  
 - **JavaScript (ES6)** – DOM manipulation and API integration  
-- **GitHub REST API** – Fetching public user data
+- **GitHub REST API** – Fetching public user data.
 
 ---
 
