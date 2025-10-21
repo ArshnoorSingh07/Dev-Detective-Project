@@ -142,5 +142,4 @@ function lightModeProperties() {
   localStorage.setItem("dark-mode", false);
 }
 
-
 getUserData(url + "ArshnoorSingh07");
